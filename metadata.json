@@ -1,0 +1,8 @@
+{
+  "name": "Remix PinkCare",
+  "description": "تطبيق العناية اليومية والتأهيل ثلاثي الأبعاد لمريضات سرطان الثدي ومتابعة الحالة الصحية (PinkCare - Your Daily Wellness Guide)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "user_mamri_default",
+    "email": "mamribadreddin@gmail.com",
+    "provider": "google",
+    "first_name": "بدر الدين",
+    "last_name": "معمري",
+    "full_name": "بدر الدين معمري (Badreddine Mamri)",
+    "avatar_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "age": 32,
+    "role": "authenticated",
+    "created_at": "2026-11-11T12:17:27.769Z",
+    "updated_at": "2026-11-11T12:17:46.878Z"
+  },
+  {
+    "id": "usr_b4da2c0eb62d443c",
+    "email": "test.warrior@pinkcare.dz",
+    "passwordHash": "08d2368912c8cae52f7f66a4e6783fd09211da7ab722c3d45495e75e8b16d27a1456cd422ee6c54e3b843e9911c35fd1802b54360482e90ab77ba9f38d7448e8",
+    "salt": "8477922fe203f18deab1aafb5868ad73",
+    "provider": "email",
+    "first_name": "فاطمة",
+    "last_name": "الزهراء",
+    "full_name": "فاطمة الزهراء",
+    "avatar_url": null,
+    "age": 34,
+    "role": "authenticated",
+    "created_at": "2026-11-11T12:17:27.771Z",
+    "updated_at": "2026-11-11T12:17:53.865Z"
+  }
+]
